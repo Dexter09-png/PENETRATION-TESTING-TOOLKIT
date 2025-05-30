@@ -28,7 +28,7 @@ Throughout this journey, I gained valuable insights from Stack Overflow, Geeksfo
 
 Part 2: Port Scanner
 
-The second component of my Pen Testing Toolkit is a simple Port Scanner. This script allows me to check for open ports on a specified host. I used Python’s built-in socket module to attempt connections to a range of ports. If a connection is successful, it marks the port as open. If not, it silently continues scanning.
+The second component of my Pen Testing Toolkit is a simple Port Scanner. This script allows me to check for open ports on a specified host. I used Python’s built-in socket module 192.168.1.1 to attempt connections to a range of ports 20 to 100. If a connection is successful, it marks the port as open. If not, it silently continues scanning.
 
 This tool gave me practical exposure to how penetration testers identify potential vulnerabilities in a system. Open ports can reveal running services, and each one could be a potential entry point for attackers if not properly secured.
 
